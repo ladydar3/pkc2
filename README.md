@@ -1,2 +1,2 @@
-![](photo/скрин гугл.png)
-![](photo/скрин телефона.png)
+![](photo/f.png)
+![](photo/g.png)
